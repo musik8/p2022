@@ -1,0 +1,23 @@
+.scene{
+  width:100vw;
+  height:100vh;
+ // border: 5px solid red;
+}
+.main {
+  width:100vw;
+  height:100vh;
+}
+.canvas{
+  background: #DAD8E6;
+}
+
+.leftSideContent {
+  //border: 1px solid #000;
+  position: absolute;
+  z-index: 10;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 39vw;
+}
